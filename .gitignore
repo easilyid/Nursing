@@ -1,0 +1,9 @@
+/[Ll]ibrary/         # 忽略Unity生成的本地库文件 
+/[Tt]emp/            # 临时编译文件 
+/[Oo]bj/             # 编译中间文件 
+/[Bb]uilds/          # 构建输出目录 
+*.sln                # 忽略Visual Studio解决方案文件 
+*.csproj             # 忽略C#项目文件 
+.vs/                 # 忽略VS编辑器缓存 
+.idea/               # 忽略JetBrains IDE配置 
+/[Pp]rojectSettings/ProjectVersion.txt  # 忽略Unity版本锁定文件
